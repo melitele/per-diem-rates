@@ -11,4 +11,4 @@ Per diem rates are originally distributes as Excel files (.xls or .xlsx dependin
 [scpike/excel2csv]: https://github.com/scpike/excel2csv
 [U.S. Department of Defense]: https://www.travel.dod.mil/Travel-Transportation-Rates/Per-Diem/Per-Diem-Rate-Lookup/
 [U.S. Department of State]: https://aoprals.state.gov/content.asp?content_id=233&menu_id=78
-[U.S. General Services Administration]: https://www.gsa.gov/node/86696/per-diem-files
+[U.S. General Services Administration]: https://www.gsa.gov/travel/plan-book/per-diem-rates/per-diem-files
