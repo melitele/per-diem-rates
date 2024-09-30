@@ -9,3 +9,4 @@ FY2021_PerDiemMasterRatesFile.csv
 FY2022_PerDiemMasterRatesFile.csv
 FY2023_PerDiemMasterRatesFile.csv
 FY2024_PerDiemMasterRatesFile.csv
+FY2025_PerDiemMasterRatesFile.csv
